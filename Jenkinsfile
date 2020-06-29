@@ -8,6 +8,6 @@ elifePipeline {
     }
     
     stage 'Release', {
-        elifeNpmRelease
+        elifeNpmRelease()
     }
 }
