@@ -1,0 +1,19 @@
+{
+  "name": "alfred-example",
+  "version": "0.0.4",
+  "description": "some random text here",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elifesciences/alfred-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elifesciences/alfred-example/issues"
+  },
+  "homepage": "https://github.com/elifesciences/alfred-example#readme"
+}
