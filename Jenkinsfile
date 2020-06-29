@@ -6,4 +6,8 @@ elifePipeline {
     stage 'Project tests', {
         elifeLocalTests "./project_tests.sh"
     }
+    
+    stage 'Release', {
+        elifeNpmRelease
+    }
 }
