@@ -3,9 +3,6 @@
   "version": "0.0.4",
   "description": "some random text here",
   "main": "index.js",
-  "scripts": {
-    "prepare": "gulp"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/elifesciences/alfred-example.git"
