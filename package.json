@@ -1,5 +1,5 @@
 {
-  "name": "alfred-example",
+  "name": "@elifesciences/alfred-example",
   "version": "0.0.4",
   "description": "some random text here",
   "main": "index.js",
