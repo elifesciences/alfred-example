@@ -9,12 +9,6 @@ elifePipeline {
     }
 */
 
-/*
-    stage 'Release', {
-        elifeNpmRelease()
-    }
-*/
-
     elifeMainlineOnly {
         stage 'Downstream', {
             build job: '/release/release-npm-alfred-example', wait: false
